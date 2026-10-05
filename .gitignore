@@ -1,0 +1,23 @@
+# Entornos y archivos temporales
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Credenciales y secretos
+.env
+*.key
+*.pem
+
+# MLflow local
+mlruns/
