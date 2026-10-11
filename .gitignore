@@ -21,3 +21,6 @@ Thumbs.db
 
 # MLflow local
 mlruns/
+
+# Base de datos local de MLflow
+mlflow.db*
